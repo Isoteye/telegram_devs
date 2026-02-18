@@ -1,8 +1,4 @@
-#!/usr/bin/env python3
-"""
-Software Marketplace - Professional Edition with Custom Development Requests
-MAIN ENTRY POINT - Clean Version
-"""
+
 import logging
 import sys
 import os
